@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\ㄛ\desktop\學校\程式\hw3\5.35\source\main.c(18): warning C4018: '<': signed/unsigned 不相符
+  HW5.35.vcxproj -> C:\Users\ㄛ\Desktop\學校\程式\HW3\5.35\HW5.35\HW5.35\..\..\temp\debug\HW5.35.exe
